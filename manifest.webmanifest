@@ -1,0 +1,11 @@
+{
+  "name": "Worship Set 뷰어",
+  "short_name": "콘티 뷰어",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef1f5",
+  "theme_color": "#172535",
+  "lang": "ko",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
